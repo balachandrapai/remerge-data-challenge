@@ -3,7 +3,7 @@ Data Science challenge task
 
 The Notebook contains detailed description on how i approached the challenge.
 
-**Libraries used: **
+**Libraries used:**
 
 * pandas, numpy, matplotlib, seaborn, sklearn, lightgbm
 
